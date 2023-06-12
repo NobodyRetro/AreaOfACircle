@@ -1,0 +1,15 @@
+D:\LearningCode\AreaOfACircle\bin\Debug\net7.0\AreaOfACircle.exe
+D:\LearningCode\AreaOfACircle\bin\Debug\net7.0\AreaOfACircle.deps.json
+D:\LearningCode\AreaOfACircle\bin\Debug\net7.0\AreaOfACircle.runtimeconfig.json
+D:\LearningCode\AreaOfACircle\bin\Debug\net7.0\AreaOfACircle.dll
+D:\LearningCode\AreaOfACircle\bin\Debug\net7.0\AreaOfACircle.pdb
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\AreaOfACircle.csproj.AssemblyReference.cache
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\AreaOfACircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\AreaOfACircle.AssemblyInfoInputs.cache
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\AreaOfACircle.AssemblyInfo.cs
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\AreaOfACircle.csproj.CoreCompileInputs.cache
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\AreaOfACircle.dll
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\refint\AreaOfACircle.dll
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\AreaOfACircle.pdb
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\AreaOfACircle.genruntimeconfig.cache
+D:\LearningCode\AreaOfACircle\obj\Debug\net7.0\ref\AreaOfACircle.dll
